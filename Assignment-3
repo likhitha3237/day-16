@@ -1,0 +1,21 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+intnum,i,intevensum=0,oddsum=0;
+printf("Enter a number:");
+scanf{"%d\n",i);
+if(i%2==0)
+{
+evensum+=i;
+}
+else
+{
+oddsum+=i;
+}
+}
+}
+printf("evensum=%d\n",evensum);
+printf("oddsum=%d\n",oddsum);
+return(0);
+}
